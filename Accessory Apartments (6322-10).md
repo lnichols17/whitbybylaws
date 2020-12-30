@@ -46,18 +46,18 @@ maintain Registration of the Accessory Apartment with the Town.
 ### APPLICATION FOR REGISTRATION
 3. To obtain Registration, the Owner of property containing an Accessory
 Apartment shall:    
-    2. Pay the prescribed fee in the amount set out in the Town of Whitby, Public
+    1. Pay the prescribed fee in the amount set out in the Town of Whitby, Public
 Works Department Fees for Services By-law, 6150-09 as amended;    
-    3. Arrange for relevant inspections of the property containing the Accessory
+    2. Arrange for relevant inspections of the property containing the Accessory
 Apartment, by an Inspector(s);    
-    4. Provide certification from the Electrical Safety Authority, that the dwelling
+    3. Provide certification from the Electrical Safety Authority, that the dwelling
 and Accessory Apartment comply with the requirements defined in the
 Ontario Electrical Safety Code;    
-    5. Provide a valid building permit issued by the Town for the construction of
+    4. Provide a valid building permit issued by the Town for the construction of
 the Accessory Apartment;    
-    6. Provide an occupancy certificate pursuant to the Building Code Act issued
+    5. Provide an occupancy certificate pursuant to the Building Code Act issued
 by the Town for the Accessory Apartment;    
-    7. Provide any documents or information required by the Registrar to
+    6. Provide any documents or information required by the Registrar to
 determine compliance with this By-law or any other applicable law.    
 ### DUTIES OF THE REGISTRAR
 4. The Registrar shall register an Accessory Apartment that meets the requirements
